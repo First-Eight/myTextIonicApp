@@ -1,0 +1,183 @@
+{
+  "name" : "Voorwaardsleren uitgelegd",
+  "pages" : [ {
+    "lemma" : "Welkom bij de probeerversie van \nVoorwaartsleren. \nWe werken in deze methode vooral met (verborgen) hyperlinks. In deze probeerversie wordt gewerkt met multiplechoice, maar het kunnen ook plaatsen in de plaatjes zijn die aangewezen moeten worden.",
+    "htmlLemma" : "<span style=\"color:black;\">Welkom bij de probeerversie van \n</span><span style=\"color:red;\">Voorwaartsleren. </span><br/><span style=\"color:black;\">We werken in deze methode vooral met (verborgen) hyperlinks. In deze probeerversie wordt gewerkt met multiplechoice, maar het kunnen ook plaatsen in de plaatjes zijn die aangewezen moeten worden.</span><br/>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Klik op A om verder te gaan</span>",
+    "answers" : [ {
+      "text" : "Juist antwoord",
+      "correct" : true
+    }, {
+      "text" : "Fout antwoord",
+      "correct" : false
+    }, {
+      "text" : "Fout antwoord",
+      "correct" : false
+    }, {
+      "text" : "Fout antwoord",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0000-00.gif",
+      "contentType" : "image/gif"
+    } ]
+  }, {
+    "lemma" : "Per pagina wordt 1 leerelement toegevoegd. De methode is dat een begrip omtrent een leeronderdeel opgeknipt wordt in behapbare stukjes (Miller 1956); de afzonderlijke feiten (lemma’s). Per pagina wordt er dus 1 feit (lemma) gepresenteerd. Of in een later stadium ‘begrip’ geconstrueerd.",
+    "htmlLemma" : "<span style=\"color:black;\">Per pagina wordt 1 leerelement toegevoegd. De methode is dat een begrip omtrent een leeronderdeel opgeknipt wordt in behapbare stukjes (Miller 1956); de afzonderlijke feiten (lemma’s). Per pagina wordt er dus 1 feit (lemma) gepresenteerd. Of in een later stadium ‘begrip’ geconstrueerd.</span>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wat  is de naam van de links waar in deze methode gebruik van wordt gemaakt? </span>",
+    "answers" : [ {
+      "text" : "Hyperlink",
+      "correct" : true
+    }, {
+      "text" : "Chunk",
+      "correct" : false
+    }, {
+      "text" : "Hooverlink",
+      "correct" : false
+    }, {
+      "text" : "Lemma",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0001-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "Bij de vorige pagina was het u misschien opgevallen dat de vraag onderaan de pagina niet betrekking had op de tekst die er boven stond. Dat is met opzet gedaan. De bedoeling is om verder te komen; voorwaarts te leren, men het ook daadwerkelijk leert. De vraag gaat over een niet zichtbare pagina. Om de vraag te kunnen beantwoorden is iemand dus gedwongen om het te leren deel op te slaan in het lange (semantisch) termijn geheugen. Het is even anders dan dat u gewend bent.",
+    "htmlLemma" : "<span style=\"color:black;\">Bij de vorige pagina was het u misschien opgevallen dat de vraag onderaan de pagina niet betrekking had op de tekst die er boven stond. Dat is met opzet gedaan. De bedoeling is om verder te komen; voorwaarts te leren, men het ook daadwerkelijk leert. De vraag gaat over een niet zichtbare pagina. Om de vraag te kunnen beantwoorden is iemand dus gedwongen om het te leren deel op te slaan in het lange (semantisch) termijn geheugen. Het is even anders dan dat u gewend bent. </span><br/>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wat is in leerverband een term voor een feit? </span><br/>",
+    "answers" : [ {
+      "text" : "Begrip",
+      "correct" : false
+    }, {
+      "text" : "Lemma",
+      "correct" : true
+    }, {
+      "text" : "Chunk",
+      "correct" : false
+    }, {
+      "text" : "Lange termijn geheugen",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0002-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Wanneer u of een leerling/student of werknemer een fout heeft gemaakt bij het beantwoorden van een vraag wordt deze terugverwezen naar de vorige pagina, zodat de informatie nogmaals gelezen kan worden. \n\nIets nieuws leren? \n\nDe meest effectieve reactie tijd interval voor het maken van een leerelement is 20 milliseconden. De effectieve reactietijd is nagenoeg nul na 3s.  Daarom korte stukjes info en snelle reactie tussen vraag en antwoord.",
+    "htmlLemma" : "<span style=\"color:black;\">Wanneer u of een leerling/student of werknemer een fout heeft gemaakt bij het beantwoorden van een vraag wordt deze terugverwezen naar de vorige pagina, zodat de informatie nogmaals gelezen kan worden. </span><br/><br/><span style=\"color:black;\">Iets nieuws leren? </span><br/><br/><span style=\"color:black;\">De meest effectieve reactie tijd interval voor het maken van een leerelement is 20 milliseconden. De effectieve reactietijd is nagenoeg nul na 3s.  Daarom korte stukjes info en snelle reactie tussen vraag en antwoord.</span><br/>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Hoe heet het lange termijn geheugen? </span><br/>",
+    "answers" : [ {
+      "text" : "Semantisch geheugen",
+      "correct" : true
+    }, {
+      "text" : "Episodisch geheugen",
+      "correct" : false
+    }, {
+      "text" : "Declaritief geheugen",
+      "correct" : false
+    }, {
+      "text" : "Chip",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0003-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Dus hoe korter de tijd tussen de te associëren lemma’s, hoe effectiever het leren. Dit is echter alleen op het gebied van feitjes. \n\nEen begrip is complexer. Een begrip is een eigen interpretatie van een ‘wolk ’van feiten. Oftewel een begrip is een individuele associatie van relaties tussen feiten. In de meeste gevallen zal er echter veel overeenkomst zijn met kennis van een begrip. Dat komt omdat we in dezelfde tijd leven en in de zelfde cultuur en samenleving.",
+    "htmlLemma" : "<span style=\"color:black;\">Dus hoe korter de tijd tussen de te associëren lemma’s, hoe effectiever het leren. Dit is echter alleen op het gebied van feitjes. </span><br/><br/><span style=\"color:black;\">Een begrip is complexer. Een begrip is een eigen interpretatie van een ‘wolk ’van feiten. Oftewel een begrip is een individuele associatie van relaties tussen feiten. In de meeste gevallen zal er echter veel overeenkomst zijn met kennis van een begrip. Dat komt omdat we in dezelfde tijd leven en in de zelfde cultuur en samenleving. </span>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wat is de meest effectieve leertijd ? </span>",
+    "answers" : [ {
+      "text" : "3 milliseconde",
+      "correct" : false
+    }, {
+      "text" : "3 seconden",
+      "correct" : false
+    }, {
+      "text" : "20 milliseconde tot maximaal 3 seconden",
+      "correct" : true
+    }, {
+      "text" : "20 seconden",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0004-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "In grote lijnen is het onderwijs (intentioneel leren) niet veranderd sinds 1935. Nog steeds werken we volgens het “Overlearning” principe van Ebbinghaus. In één zin samengevat is dat; gewoon daverend veel stof aanbieden en met tussentijd herhalen of overhoren. (Spaced repetion) \nDat kan vele malen efficiënter.",
+    "htmlLemma" : "<span style=\"color:black;\">In grote lijnen is het onderwijs (intentioneel leren) niet veranderd sinds 1935. Nog steeds werken we volgens het “Overlearning” principe van Ebbinghaus. In één zin samengevat is dat; gewoon daverend veel stof aanbieden en met tussentijd herhalen of overhoren. (Spaced repetion) </span><br/><span style=\"color:black;\">Dat kan vele malen efficiënter. </span>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wat voor soort kennis is het wanneer je over de aanleiding tot de  Franse revolutie kunt vertellen?   </span>",
+    "answers" : [ {
+      "text" : "Feit",
+      "correct" : false
+    }, {
+      "text" : "Feitenkennis",
+      "correct" : false
+    }, {
+      "text" : "Begrip",
+      "correct" : true
+    }, {
+      "text" : "Een Lemma",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0005-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "De auteurs van deze methode zijn allen werkzaam of werkzaam geweest in het onderwijs. Elke auteur en ontvangt een deel uit de opbrengst van deze methode. Wanneer u ook als auteur wilt bijdragen aan deze methode kunt u op de site onder het kopje; “werken bij’, hierover meer informatie vinden. \nDe methode kan ook op maat gemaakt worden voor uw bedrijf/organisatie, zodat u zeker bent dat van alles wat geleerd moet worden de kennis is genoten.",
+    "htmlLemma" : "<span style=\"color:black;\">De auteurs van deze methode zijn allen werkzaam of werkzaam geweest in het onderwijs. Elke auteur en ontvangt een deel uit de opbrengst van deze methode. Wanneer u ook als auteur wilt bijdragen aan deze methode kunt u op de site onder het kopje; “werken bij’, hierover meer informatie vinden. </span><br/><span style=\"color:black;\">De methode kan ook op maat gemaakt worden voor uw bedrijf/organisatie, zodat u zeker bent dat van alles wat geleerd moet worden de kennis is genoten. </span>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wie is de bedenker van het “overlearning” principe? </span>",
+    "answers" : [ {
+      "text" : "Miller",
+      "correct" : false
+    }, {
+      "text" : "Goethe",
+      "correct" : false
+    }, {
+      "text" : "Darwin",
+      "correct" : false
+    }, {
+      "text" : "Ebbinghaus",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0006-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "De methode bestaat uit duizenden pagina’s. Na inloggen wordt de leerling/student/werknemer automatisch doorverwezen naar de laatst door hem behandelde pagina van de vorige sessie. Men wil immers vooruit en niet zoeken hoe men vooruit moet komen. \nElk thema wordt (desgewenst) afgesloten met een digitale toets. Een beoordeling van de beheersing wordt automatisch verzonden aan zowel de leerling/student/werknemer als aan de coach/docent/begeleider.",
+    "htmlLemma" : "<span style=\"color:black;\">De methode bestaat uit duizenden pagina’s. Na inloggen wordt de leerling/student/werknemer automatisch doorverwezen naar de laatst door hem behandelde pagina van de vorige sessie. Men wil immers vooruit en niet zoeken hoe men vooruit moet komen. </span><br/><span style=\"color:black;\">Elk thema wordt (desgewenst) afgesloten met een digitale toets. Een beoordeling van de beheersing wordt automatisch verzonden aan zowel de leerling/student/werknemer als aan de coach/docent/begeleider.   </span>",
+    "richLemma" : null,
+    "question" : "<span style=\"color:black;\">Wilt u het voorbeeld afsluiten, drukt u dan op een willekeurig antwoord. Wilt u meer informatie dan kunt u gebruik maken van het contactformulier wat u vindt onder het kopje “contact”. Dank u voor uw interesse. </span>",
+    "answers" : [ {
+      "text" : "Nog een keer",
+      "correct" : false,
+      "toFirstPage" : true
+    }, {
+      "text" : "Naar een andere/exterene pagina",
+      "correct" : false,
+      "toExternalLink" : true,
+      "link" : "http://www.voorwaartsleren.nl/"
+    }, {
+      "text" : "Een pagina terug",
+      "correct" : false
+    }, {
+      "text" : "Home/begin pagina",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0007-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  } ]
+}

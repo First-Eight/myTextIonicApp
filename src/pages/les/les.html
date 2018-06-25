@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>List {{selectedItem ? selectedItem : "-"}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <!-- TODO: add something useful here -->
+  <div padding>
+    <b>You selected page {{pageNo}}</b>
+  </div>
+  <div padding>
+    <button ion-button (click)="gotoPrevious()">Prev</button>
+    {{pageNo + 1}}/{{maxPageNo}}
+    <button ion-button (click)="gotoNext()">Next</button>
+  </div>
+  <div padding>
+    <button ion-item (click)="backToTheSart()">Back to the start</button>
+  </div>
+  <div *ngIf="page" padding [innerHTML]="page.htmlLemma">
+  </div>
+  <div *ngIf="page" padding [innerHTML]="page.question">
+  </div>
+  <div *ngIf="page" padding>
+    <!-- TODO: handle answer.toExternalLink + answer.link -->
+    <!-- TODO: format this so each answer-button takes up the width of the screen -->
+    <button *ngFor="let answer of page.answers"
+            ion-button
+            class="button button-fill button-round with-space"
+            (click)="handleAnswer(answer, pageNo)">{{answer.item ? answer.item : "X"}} - {{answer.text}}</button>
+  </div>
+</ion-content>

@@ -3,7 +3,7 @@
     <button ion-button menuToggle>
       <ion-icon name="menu"></ion-icon>
     </button>
-    <ion-title>List</ion-title>
+    <ion-title>List {{selectedItem ? selectedItem.title : "-"}}</ion-title>
   </ion-navbar>
 </ion-header>
 
@@ -19,5 +19,8 @@
   </ion-list>
   <div *ngIf="selectedItem" padding>
     You navigated here from <b>{{selectedItem.title}}</b>
+  </div>
+  <div>
+    <button ion-item (click)="backToTheSart()">Back to the start</button>
   </div>
 </ion-content>

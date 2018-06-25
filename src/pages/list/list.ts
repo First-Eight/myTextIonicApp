@@ -33,5 +33,10 @@ export class ListPage {
     this.navCtrl.push(ListPage, {
       item: item
     });
+    console.log("Pushing " + item.title);
+  }
+
+  backToTheSart() {
+    this.navCtrl.popToRoot({duration: 5000});
   }
 }
