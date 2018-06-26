@@ -20,9 +20,11 @@
   <div padding>
     <button ion-item (click)="backToTheSart()">Back to the start</button>
   </div>
-  <div *ngIf="page" padding [innerHTML]="page.htmlLemma">
+  <div *ngIf="page" padding>
+    <p *ngFor="let p of page.htmlLemmaPs" [innerHTML]="p"></p>
   </div>
-  <div *ngIf="page" padding [innerHTML]="page.question">
+  <div *ngIf="page" padding>
+    <p *ngFor="let p of page.questionPs" [innerHTML]="p"></p>
   </div>
   <div *ngIf="page" padding>
     <!-- TODO: handle answer.toExternalLink + answer.link -->

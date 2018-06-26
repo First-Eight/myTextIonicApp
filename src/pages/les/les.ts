@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { DomSanitizer } from '@angular/platform-browser';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { NavController, NavParams } from 'ionic-angular';
 import { LessonDataProvider, Lesson, LessonPage, Answer } from '../../providers/lesson-data/lesson-data';
 
@@ -8,7 +8,7 @@ import { LessonDataProvider, Lesson, LessonPage, Answer } from '../../providers/
   templateUrl: 'les.html'
 })
 export class LesPage {
-  pageNo: number  = 0;
+  pageNo: number = 0;
   maxPageNo: number = 0;
   lesson: Lesson;
   page: any;
@@ -33,10 +33,15 @@ export class LesPage {
     let page: LessonPage = lesson.pages[pageNo];
     // TODO: handle '\n' in the HTML's
     this.page = {
-      htmlLemma: this.sanitizer.bypassSecurityTrustHtml(page.htmlLemma),
-      question: this.sanitizer.bypassSecurityTrustHtml(page.question),
+      htmlLemmaPs: this.toPs(page.htmlLemma),
+      questionPs: this.toPs(page.question),
       answers: this.transformAnswers(page.answers)
     }
+  }
+
+  toPs(html: string): SafeHtml[] {
+    return html.split("\n") //
+      .map((ps, index) => this.sanitizer.bypassSecurityTrustHtml(ps));
   }
 
   transformAnswers(pageAnswers: Answer[]) {
