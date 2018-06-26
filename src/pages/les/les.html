@@ -8,17 +8,10 @@
 </ion-header>
 
 <ion-content>
-  <!-- TODO: add something useful here -->
   <div padding>
-    <b>You selected page {{pageNo}}</b>
-  </div>
-  <div padding>
-    <button ion-button (click)="gotoPrevious()">Prev</button>
+    <button ion-button small (click)="gotoPrevious()">Prev</button>
     {{pageNo + 1}}/{{maxPageNo}}
-    <button ion-button (click)="gotoNext()">Next</button>
-  </div>
-  <div padding>
-    <button ion-item (click)="backToTheSart()">Back to the start</button>
+    <button ion-button small (click)="gotoNext()">Next</button>
   </div>
   <div *ngIf="page" padding>
     <p *ngFor="let p of page.htmlLemmaPs" [innerHTML]="p"></p>
@@ -27,11 +20,9 @@
     <p *ngFor="let p of page.questionPs" [innerHTML]="p"></p>
   </div>
   <div *ngIf="page" padding>
-    <!-- TODO: handle answer.toExternalLink + answer.link -->
-    <!-- TODO: format this so each answer-button takes up the width of the screen -->
     <button *ngFor="let answer of page.answers"
-            ion-button
-            class="button button-fill button-round with-space"
+            ion-button full
+            class="answer-button"
             (click)="handleAnswer(answer, pageNo)">{{answer.item ? answer.item : "X"}} - {{answer.text}}</button>
   </div>
 </ion-content>
