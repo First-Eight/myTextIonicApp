@@ -8,6 +8,7 @@ import { LessonDataProvider, Lesson, LessonPage, Answer } from '../../providers/
   templateUrl: 'les.html'
 })
 export class LesPage {
+  isDev: boolean = ((<any>window)['IonicDevServer'] != undefined);
   pageNo: number = 0;
   maxPageNo: number = 0;
   lesson: Lesson;
