@@ -23,6 +23,6 @@
     <button *ngFor="let answer of page.answers"
             ion-button full
             class="answer-button"
-            (click)="handleAnswer(answer, pageNo)">{{answer.item ? answer.item : "X"}} - {{answer.text}}</button>
+            (click)="handleAnswer(answer, pageNo)">{{answer.item}} - {{answer.text}}</button>
   </div>
 </ion-content>
