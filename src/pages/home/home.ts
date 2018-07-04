@@ -12,7 +12,7 @@ export class HomePage {
     {
       "id": 4,
       "icon": "book",
-      "name": "Voorwaardsleren",
+      "name": "Voorwaartsleren",
       "file": "lesson-4.json"
     },
     {
