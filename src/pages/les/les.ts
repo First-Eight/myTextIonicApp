@@ -32,9 +32,9 @@ export class LesPage {
 
   setPage(lesson: Lesson, pageNo: number) {
     let page: LessonPage = lesson.pages[pageNo];
-    // TODO: handle '\n' in the HTML's
     this.page = {
       htmlLemmaPs: this.toPs(page.htmlLemma),
+      images: page.images,
       questionPs: this.toPs(page.question),
       answers: this.transformAnswers(page.answers)
     }
