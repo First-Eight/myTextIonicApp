@@ -41,37 +41,35 @@ export interface Lesson {
 */
 @Injectable()
 export class LessonDataProvider {
-  lessonUrl: string = "assets/data/lesson-4.json";
-  lesson: any;
+  lessonUrl: string = "assets/data/lesson-[NUMBER].json";
+  lessons: any[] = [];
 
   constructor(public http: HttpClient) {
     console.log('Hello LessonDataProvider Provider');
   }
 
   getLesson(lessonNo: number): Observable<Lesson> {
-    // TODO: use lessonNo (cache with lookup based on lessonNo)
-    if (this.lesson) {
-      return Observable.of(this.lesson);
+    if (this.lessons[lessonNo]) {
+      return Observable.of(this.lessons[lessonNo]);
     } else {
-      return this.http.get<LessonPage>(this.lessonUrl)
+      return this.http.get<LessonPage>(this.lessonUrl.replace('[NUMBER]', String(lessonNo)))
         .pipe(catchError(this.handleError))
         .map(function(lesson: Lesson) {
-          this.lesson = lesson;
-          return this.lesson;
+          this.lessons[lessonNo] = lesson;
+          return lesson;
         }, this);
     }
   }
 
   getPage(lessonNo: number, pageNo: number): Observable<LessonPage> {
-    // TODO: use lessonNo (cache with lookup based on lessonNo)
-    if (this.lesson) {
-      return Observable.of(this.lesson.pages[pageNo]);
+    if (this.lessons[lessonNo]) {
+      return Observable.of(this.lessons[lessonNo].pages[pageNo]);
     } else {
-      return this.http.get<LessonPage>(this.lessonUrl)
+      return this.http.get<LessonPage>(this.lessonUrl.replace('[NUMBER]', String(lessonNo)))
         .pipe(catchError(this.handleError))
         .map(function(lesson: Lesson) {
-          this.lesson = lesson;
-          return this.lesson.pages[pageNo];
+          this.lessons[lessonNo] = lesson;
+          return lesson.pages[pageNo];
         }, this);
     }
   }

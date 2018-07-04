@@ -9,6 +9,7 @@ import { LessonDataProvider, Lesson, LessonPage, Answer } from '../../providers/
 })
 export class LesPage {
   isDev: boolean = ((<any>window)['IonicDevServer'] != undefined);
+  lessonNo: number = 4;
   pageNo: number = 0;
   maxPageNo: number = 0;
   lesson: Lesson;
@@ -18,11 +19,12 @@ export class LesPage {
     public navParams: NavParams,
     public lessonDataProvider: LessonDataProvider,
     public sanitizer: DomSanitizer) {
+    this.lessonNo = navParams.get('lessonNo');
     let paramPageNo = navParams.get('pageNo');
     this.pageNo = paramPageNo ? paramPageNo : 0;
     console.log("this.pageNo=" + this.pageNo);
     // TODO: read the selected lesson and show the right page
-    lessonDataProvider.getLesson(4)
+    lessonDataProvider.getLesson(this.lessonNo)
       .subscribe(lesson => {
         this.lesson = lesson;
         this.maxPageNo = lesson.pages.length;
@@ -114,6 +116,7 @@ export class LesPage {
       return;
     }
     this.navCtrl.push(LesPage, {
+      lessonNo: this.lessonNo,
       pageNo: pageNo
     });
   }

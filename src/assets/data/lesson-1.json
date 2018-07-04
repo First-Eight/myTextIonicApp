@@ -1,0 +1,630 @@
+{
+  "name" : "Organen en cellen",
+  "pages" : [ {
+    "lemma" : "SE1 Organen en cellen KB3\n\n(Reeks BZ067)\n\n\nOm naar een volgende pagina te gaan, moet je met de muisaanwijzer klikken op de letter van het juiste antwoord. Ook kan het juiste antwoord in een plaatje te vinden zijn. Dan moet de muis boven het juiste plaatje zweven. Heb je je antwoord goed, dan ga je naar de volgende pagina. Heb je je antwoord fout dan ga je een pagina terug. Succes!!",
+    "htmlLemma" : "SE1 Organen en cellen KB3<br/><br/>(Reeks BZ067)<br/><br/><br/>Om naar een volgende pagina te gaan, moet je met de muisaanwijzer klikken op de letter van het juiste antwoord. Ook kan het juiste antwoord in een plaatje te vinden zijn. Dan moet de muis boven het juiste plaatje zweven. Heb je je antwoord goed, dan ga je naar de volgende pagina. Heb je je antwoord fout dan ga je een pagina terug. Succes!!",
+    "richLemma" : null,
+    "question" : "Om naar de volgende pagina te gaan, kies een van de antwoorden:",
+    "answers" : [ {
+      "text" : "Antwoord 1",
+      "correct" : true
+    }, {
+      "text" : "Antwoord 2",
+      "correct" : true
+    }, {
+      "text" : "Antwoord 3",
+      "correct" : true
+    }, {
+      "text" : "Antwoord 4",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0000-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "De cel is het kleinste levende onderdeel van een organisme. Alle planten en dieren bestaan uit één of meerdere cellen. Hiernaast zie je wat plantencellen.",
+    "htmlLemma" : "De cel is het kleinste levende onderdeel van een organisme. Alle planten en dieren bestaan uit één of meerdere cellen. Hiernaast zie je wat plantencellen.",
+    "richLemma" : null,
+    "question" : "Waar gaat dit SE over?",
+    "answers" : [ {
+      "text" : "Over planten",
+      "correct" : false
+    }, {
+      "text" : "Over een organisme",
+      "correct" : false
+    }, {
+      "text" : "Over organen en cellen",
+      "correct" : true
+    }, {
+      "text" : "Over planten en dieren",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0001-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Een cel bestaat uit verschillende onderdelen. De cel bevat altijd cytoplasma. Dit is een soort vloeistof zoals bloed bij jou, wat uit water en opgeloste stoffen bestaat.",
+    "htmlLemma" : "Een cel bestaat uit verschillende onderdelen. De cel bevat altijd cytoplasma. Dit is een soort vloeistof zoals bloed bij jou, wat uit water en opgeloste stoffen bestaat.",
+    "richLemma" : null,
+    "question" : "Hebben alle planten een cel of cellen?",
+    "answers" : [ {
+      "text" : "Ja, planten bestaan uit meerde cellen.",
+      "correct" : false
+    }, {
+      "text" : "Nee, planten hebben geen cel.",
+      "correct" : false
+    }, {
+      "text" : "Ja, planten bestaan uit 1 of meer cellen",
+      "correct" : true
+    }, {
+      "text" : "Nee, alleen bacteriën",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0002-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "Het cytoplasma wordt omgeven door een soort zakje. Het celmembraan. Alle cellen hebben een celmembraan.",
+    "htmlLemma" : "Het cytoplasma wordt omgeven door een soort zakje. Het celmembraan. Alle cellen hebben een celmembraan. ",
+    "richLemma" : null,
+    "question" : "Wat is cytoplasma?",
+    "answers" : [ {
+      "text" : "Een cel van plant of dier",
+      "correct" : false
+    }, {
+      "text" : "celvloeistof wat bestaat uit water en opgeloste stoffen",
+      "correct" : true
+    }, {
+      "text" : "bloed",
+      "correct" : false
+    }, {
+      "text" : "dat regelt alles in de cel",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "De celkern is vaak te zien in een cel als een donkere vlek. Hierin ligt het DNA van de cel. De celkern regelt alles wat in de cel gebeurt.",
+    "htmlLemma" : "De celkern is vaak te zien in een cel als een donkere vlek. Hierin ligt het DNA van de cel. De celkern regelt alles wat in de cel gebeurt. ",
+    "richLemma" : null,
+    "question" : "Hebben alle organismen cytoplasma?",
+    "answers" : [ {
+      "text" : "Alle organismen",
+      "correct" : true
+    }, {
+      "text" : "Alleen plantencellen",
+      "correct" : false
+    }, {
+      "text" : "Alleen dierlijke cellen",
+      "correct" : false
+    }, {
+      "text" : "geen enkele cel",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0004-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "De celwand is een stevige laag om de cel. Het is een soort muur. Niet alle soorten cellen hebben een celwand. Schimmels, bacteriën en planten hebben allemaal een cel met celwand. De dierlijke cel niet. De celwand is namelijk stevig en dan zou een dier zich niet kunnen bewegen.",
+    "htmlLemma" : "De celwand is een stevige laag om de cel. Het is een soort muur. Niet alle soorten cellen hebben een celwand. Schimmels, bacteriën en planten hebben allemaal een cel met celwand. De dierlijke cel niet. De celwand is namelijk stevig en dan zou een dier zich niet kunnen bewegen. ",
+    "richLemma" : null,
+    "question" : "Met welk nummer is de celkern aangegeven?",
+    "answers" : [ {
+      "text" : "1",
+      "correct" : false
+    }, {
+      "text" : "2",
+      "correct" : false
+    }, {
+      "text" : "3",
+      "correct" : false
+    }, {
+      "text" : "4",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0005-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "In de kern zit het DNA. Dat ligt als een kluwen van draadjes door elkaar. Deze draadjes heten chromosomen. Vaak zijn de chromosomen niet goed te zien. Pas als de chromosomen zich gaan verdubbelen worden ze als het ware opgedraaid en kun je ze zien.",
+    "htmlLemma" : "In de kern zit het DNA. Dat ligt als een kluwen van draadjes door elkaar. Deze draadjes heten chromosomen. Vaak zijn de chromosomen niet goed te zien. Pas als de chromosomen zich gaan verdubbelen worden ze als het ware opgedraaid en kun je ze zien. ",
+    "richLemma" : null,
+    "question" : "Welke organismen hebben geen celwand?",
+    "answers" : [ {
+      "text" : "bacteriën",
+      "correct" : false
+    }, {
+      "text" : "schimmels",
+      "correct" : false
+    }, {
+      "text" : "planten",
+      "correct" : false
+    }, {
+      "text" : "dieren",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0006-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "De plantencel\n\nOnderdelen van de cel zijn: \ncelwand – een stevig laagje om de cel\nVacuole – een soort blaasje in de cel met vocht\nPlastiden – korrels in het cytoplasma, bijvoorbeeld bladgroenkorrels of kleurstofkorrels en zetmeel korrels.\nAls er meer cellen aan elkaar zitten, zitten de hoekjes vaak niet helemaal aan elkaar vast. Er is nog wat ruimte. Dit noem je de intercellulaire ruimtes. (“Inter “ betekent tussen)",
+    "htmlLemma" : "De <span style=\"color:red;\">plantencel</span>\n\nOnderdelen van de cel zijn: \n<span style=\"color:red;\">celwand</span> – een stevig laagje om de cel\n<span style=\"color:red;\">Vacuole </span>– een soort blaasje in de cel met vocht\n<span style=\"color:red;\">Plastiden</span> – korrels in het cytoplasma, bijvoorbeeld <span style=\"color:red;\">bladgroenkorrels</span> of <span style=\"color:red;\">kleurstofkorrels</span> en <span style=\"color:red;\">zetmeel korrels</span>.\nAls er meer cellen aan elkaar zitten, zitten de hoekjes vaak niet helemaal aan elkaar vast. Er is nog wat ruimte. Dit noem je de <span style=\"color:red;\">intercellulaire ruimtes</span>. (“Inter “ betekent tussen)",
+    "richLemma" : null,
+    "question" : "Wat zit er in de kern?",
+    "answers" : [ {
+      "text" : "Chromatiden",
+      "correct" : false
+    }, {
+      "text" : "Plastiden",
+      "correct" : false
+    }, {
+      "text" : "DNA op de chromosomen",
+      "correct" : true
+    }, {
+      "text" : "Frikandel speciaal",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0007-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "-",
+    "htmlLemma" : "-",
+    "richLemma" : null,
+    "question" : "Wat is de functie van de celwand?",
+    "answers" : [ {
+      "text" : "De cel wordt daardoor vochtiger",
+      "correct" : false
+    }, {
+      "text" : "Die geeft stevigheid om de cel",
+      "correct" : true
+    }, {
+      "text" : "Dat is een blaasje met vocht",
+      "correct" : false
+    }, {
+      "text" : "Dat heeft geen echte functie",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0008-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "-",
+    "htmlLemma" : "-",
+    "richLemma" : null,
+    "question" : "Wat zijn plastiden? Op welke plek zitten deze? ",
+    "answers" : [ {
+      "text" : "Op plek 1. Ze zijn soms groen, oranje, of worden zetmeelkorrels.",
+      "correct" : false
+    }, {
+      "text" : "Op plek 2. Ze zitten in het midden van de cel.",
+      "correct" : false
+    }, {
+      "text" : "Op plek 1. Ze zijn een sapje om de cel waarin opgeloste stoffen zitten.",
+      "correct" : false
+    }, {
+      "text" : "Op plek 2. Dit zijn soms bladgroenkorrels, kleurstofkorrels of zetmeelkorrel. Ze kunnen veranderen van groen naar oranje.",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0009-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "De vacuole is een blaasje gevuld met vocht. Het is een soort zakje in de cel. De vacuole is een soort binnenband in de plantencel. Als de binnenband niet goed is opgepompt dan is de buitenband zacht. Bij een plantje gaat als de vacuole te weinig vocht heeft, de plant slap hangen. De plant krijgt dus een stukje stevigheid door de vacuole.",
+    "htmlLemma" : "De vacuole is een blaasje gevuld met vocht. Het is een soort zakje in de cel. De vacuole is een soort binnenband in de plantencel. Als de binnenband niet goed is opgepompt dan is de buitenband zacht. Bij een plantje gaat als de vacuole te weinig vocht heeft, de plant slap hangen. De plant krijgt dus een stukje stevigheid door de vacuole. ",
+    "richLemma" : null,
+    "question" : "Wat is er met deze plant?",
+    "answers" : [ {
+      "text" : "De plant moet water hebben.",
+      "correct" : false
+    }, {
+      "text" : "De vacuolen hebben geen druk door te weinig water.",
+      "correct" : true
+    }, {
+      "text" : "De vacuolen zijn niet in balans.",
+      "correct" : false
+    }, {
+      "text" : "De cytoplasma kanalen zijn verstopt.",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0010-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "In de kern zitten chromosomen. Die bestaan uit DNA, de erfelijke informatie. De chromosomen komen in paren voor in gewone cellen, behalve voortplantingscellen. Bij de mens zijn dat 46 chromosomen of 23 paren. Kom je 23 enkele chromosomen tegen, dan zijn dit dus geslachtscellen. Dit kunnen de eicellen zijn of de zaadcellen.",
+    "htmlLemma" : "In de kern zitten chromosomen. Die bestaan uit DNA, de erfelijke informatie. De chromosomen komen in paren voor in gewone cellen, behalve voortplantingscellen. Bij de mens zijn dat 46 chromosomen of 23 paren. Kom je 23 enkele chromosomen tegen, dan zijn dit dus geslachtscellen. Dit kunnen de eicellen zijn of de zaadcellen.",
+    "richLemma" : null,
+    "question" : "Wat kun je zeggen over een cel die je vindt met 57 chromosomen?",
+    "answers" : [ {
+      "text" : "Het is een voortplantingscel",
+      "correct" : true
+    }, {
+      "text" : "Het is een lichaamscel van een organisme",
+      "correct" : false
+    }, {
+      "text" : "Het is een menselijke cel",
+      "correct" : false
+    }, {
+      "text" : "Het is de helft van een chromosoom",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "Er zijn ééncellige en meercellige organismen. Een alg is bijvoorbeeld een ééncellige plantencel. Deze alg hoort bij de planten omdat hij bladgroenkorrels heeft. \n\nDe bladgroenkorrels zijn een soort minifabriekjes die energie uit zonlicht met koolstofdioxide en water omzetten in zuurstof en glucose. Glucose is een ander woord voord suiker. \n\nAlle planten kunnen dus als ze groen zijn fotosynthese doen.",
+    "htmlLemma" : "Er zijn ééncellige en meercellige organismen. Een alg is bijvoorbeeld een ééncellige plantencel. Deze alg hoort bij de planten omdat hij bladgroenkorrels heeft. \n\nDe bladgroenkorrels zijn een soort minifabriekjes die energie uit zonlicht met koolstofdioxide en water omzetten in zuurstof en glucose. Glucose is een ander woord voord suiker. \n\nAlle planten kunnen dus als ze groen zijn fotosynthese doen.",
+    "richLemma" : null,
+    "question" : "Een aardappel met zetmeel die normaal onder de grond ligt is op de akker terecht gekomen. Na een week is deze groen geworden. En doet deze aardappel ook aan fotosynthese? Hoe kan dat?",
+    "answers" : [ {
+      "text" : "Ja. De zetmeelkorrels doen ook aan fotosynthese",
+      "correct" : false
+    }, {
+      "text" : "Nee. Alleen plastiden doen aan fotosynthese",
+      "correct" : false
+    }, {
+      "text" : "Ja. De zetmeelkorrels zijn bladgroenkorrels geworden",
+      "correct" : true
+    }, {
+      "text" : "Nee. Aardappels zijn geen planten",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "-",
+    "htmlLemma" : "-",
+    "richLemma" : null,
+    "question" : "Wat is de juiste formule van fotosynthese?",
+    "answers" : [ {
+      "text" : "Water en zuurstof geven met licht zuurstof en glucose",
+      "correct" : false
+    }, {
+      "text" : "Zuurstof met licht geeft koolstofdioxide en lucht",
+      "correct" : false
+    }, {
+      "text" : "Water en koolstofdioxide geven met licht zuurstof en glucose",
+      "correct" : true
+    }, {
+      "text" : "Glucose met zuurstof geeft met licht water en koolstofdioxide",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0013-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "De cel kan zich delen. Dan heb je er twee. De eerste cel heet dan moedercel. De twee nieuwe cellen heten dan dochtercellen. \n\nDe deling is nodig voor de aanmaak van nieuwe cellen, omdat je groeit. Of er zijn nieuwe cellen nodig voor herstel, omdat je bijvoorbeeld een wond hebt. Alle dagen worden er nieuwe cellen in je lichaam gemaakt. Terwijl je dit stukje leest misschien al 25 miljoen!!",
+    "htmlLemma" : "De cel kan zich delen. Dan heb je er twee. De eerste cel heet dan moedercel. De twee nieuwe cellen heten dan dochtercellen. \n\nDe deling is nodig voor de aanmaak van nieuwe cellen, omdat je groeit. Of er zijn nieuwe cellen nodig voor herstel, omdat je bijvoorbeeld een wond hebt. Alle dagen worden er nieuwe cellen in je lichaam gemaakt. Terwijl je dit stukje leest misschien al 25 miljoen!! ",
+    "richLemma" : null,
+    "question" : "Doet een plant ‘s nachts ook aan fotosynthese?",
+    "answers" : [ {
+      "text" : "Ja, er is altijd fotosynthese in een plant omdat deze groen is.",
+      "correct" : false
+    }, {
+      "text" : "Nee, bladgroenkorrels werken alleen met licht.",
+      "correct" : true
+    }, {
+      "text" : "Ja, de bladgroenkorrels eten glucose.",
+      "correct" : false
+    }, {
+      "text" : "Nee, er is onvoldoende zuurstof.",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0014-00.jpeg",
+      "contentType" : "image/jpeg"
+    }, {
+      "fileName" : "0014-01.png",
+      "contentType" : "image/png"
+    }, {
+      "fileName" : "0014-02.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Nu even een kleine test… Als je deze vraag en de volgende goed hebt ga je door. Heb je 1 van de 2 fout dan ga je weer terug naar bladzijde 10. Dit is om te controleren of je de eerste stof al beheerst.",
+    "htmlLemma" : "Nu even een kleine test… Als je deze vraag en de volgende goed hebt ga je door. Heb je 1 van de 2 fout dan ga je weer terug naar bladzijde 10. Dit is om te controleren of je de eerste stof al beheerst.",
+    "richLemma" : null,
+    "question" : "Wat is voor mensen het nut van fotosynthese?",
+    "answers" : [ {
+      "text" : "Het maakt zuurstof voor ons en voedsel, zoals glucose.",
+      "correct" : true
+    }, {
+      "text" : "Het doet niets voor ons. Wij zijn geen planten.",
+      "correct" : false
+    }, {
+      "text" : "Fotosynthese helpt bij het groeien en herstel bij wonden.",
+      "correct" : false
+    }, {
+      "text" : "We hebben geen fotosynthese nodig. We kunnen ook dieren eten.",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "-",
+    "htmlLemma" : "-",
+    "richLemma" : null,
+    "question" : "Met welk nummer wordt het celmembraan aangegeven?",
+    "answers" : [ {
+      "text" : "1",
+      "correct" : false
+    }, {
+      "text" : "2",
+      "correct" : false
+    }, {
+      "text" : "3",
+      "correct" : false
+    }, {
+      "text" : "4",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0016-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "Goed zo!! Je hebt nu al 50% klaar! En goed gemaakt.\n\n Er is celdeling mogelijk op twee manieren. \n\nManier 1 – Er is celdeling waarbij het aantal chromosomen gelijk blijft. Dit is gewone celdeling of mitose.\n\nManier 2 – Er is celdeling waarbij het aantal chromosomen halveert. Dit is voor het maken van geslachtscellen. Dit noemen we meiose. \nIn meiose staat ei wat handig is, zodat je weet dat er zaadcellen of eicellen gevormd worden.",
+    "htmlLemma" : "Goed zo!! Je hebt nu al 50% klaar! En goed gemaakt.\n\n Er is celdeling mogelijk op twee manieren. \n\nManier 1 – Er is celdeling waarbij het aantal chromosomen gelijk blijft. Dit is gewone celdeling of mitose.\n\nManier 2 – Er is celdeling waarbij het aantal chromosomen halveert. Dit is voor het maken van geslachtscellen. Dit noemen we meiose. \nIn m<span style=\"color:#FFFFC000;\">ei</span>ose staat <span style=\"color:#FFFFC000;\">ei</span> wat handig is, zodat je weet dat er zaadcellen of eicellen gevormd worden.",
+    "richLemma" : null,
+    "question" : "Hoe heten de eerste cel voor deling en de 2 cellen er na?",
+    "answers" : [ {
+      "text" : "plantencel",
+      "correct" : false
+    }, {
+      "text" : "beendercel",
+      "correct" : false
+    }, {
+      "text" : "meiose",
+      "correct" : false
+    }, {
+      "text" : "moedercel en dochtercel",
+      "correct" : true
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "Als cellen zich delen, moet de kern zich ook verdubbelen zodat er daarna chromosomen zijn voor twee cellen. Meestal zie je de chromosomen niet in de kern. Dan zijn het haast onzichtbare draadjes. Wel als ze verdubbelen. \n\nOm te verdubbelen, worden de chromosomen zichtbaar. Dit doen ze door een soort spiraal te worden waardoor ze korter en dikker worden. Hieronder zie je een plaatje van een aantal chromosomen in een kern.",
+    "htmlLemma" : "Als cellen zich delen, moet de kern zich ook verdubbelen zodat er daarna chromosomen zijn voor twee cellen. Meestal zie je de chromosomen niet in de kern. Dan zijn het haast onzichtbare draadjes. Wel als ze verdubbelen. \n\nOm te verdubbelen, worden de chromosomen zichtbaar. Dit doen ze door een soort spiraal te worden waardoor ze korter en dikker worden. Hieronder zie je een plaatje van een aantal chromosomen in een kern. ",
+    "richLemma" : null,
+    "question" : "Welke celdeling is nodig voor gewone celdeling, wanneer je bijvoorbeeld een wond hebt gekregen?",
+    "answers" : [ {
+      "text" : "meiose",
+      "correct" : false
+    }, {
+      "text" : "moedercel",
+      "correct" : false
+    }, {
+      "text" : "mitose",
+      "correct" : true
+    }, {
+      "text" : "dochtercel",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0018-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Nadat er verdubbeling is geweest van het aantal chromosomen, zijn er twee celkernen ontstaan en komt er een wandje tussen de twee groepen; een nieuw membraan. Als het wandje klaar is, wordt er meer cytoplasma gemaakt waardoor de twee kleine dochtercellen weer even groot worden als de moedercel. \n\nDat zie je hier;",
+    "htmlLemma" : "Nadat er verdubbeling is geweest van het aantal chromosomen, zijn er twee celkernen ontstaan en komt er een wandje tussen de twee groepen; een nieuw membraan. Als het wandje klaar is, wordt er meer cytoplasma gemaakt waardoor de twee kleine dochtercellen weer even groot worden als de moedercel. \n\nDat zie je hier;",
+    "richLemma" : null,
+    "question" : "Wat is er gebeurd met deze chromosomen? ",
+    "answers" : [ {
+      "text" : "Ze zijn dunner en langer geworden",
+      "correct" : false
+    }, {
+      "text" : "Ze zijn dikker geworden door te spiraliseren",
+      "correct" : true
+    }, {
+      "text" : "Er is niks gebeurd",
+      "correct" : false
+    }, {
+      "text" : "Dit zijn geen chromosomen",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0019-00.jpeg",
+      "contentType" : "image/jpeg"
+    }, {
+      "fileName" : "0019-01.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Een organisme bestaat uit organen; een deel van een organisme met een bepaalde functie. \nDe organen bestaan uit weefsels; een groep cellen met dezelfde bouw en functie. \nDe weefsels bestaan uit cellen.",
+    "htmlLemma" : "Een organisme bestaat uit organen; een deel van een organisme met een bepaalde functie. \nDe organen bestaan uit weefsels; een groep cellen met dezelfde bouw en functie. \nDe weefsels bestaan uit cellen.",
+    "richLemma" : null,
+    "question" : "Is deze cel klaar met delen op plaatje 4?",
+    "answers" : [ {
+      "text" : "Ja. Er zijn twee kernen",
+      "correct" : false
+    }, {
+      "text" : "Ja. Er zijn twee dochtercellen",
+      "correct" : false
+    }, {
+      "text" : "Nee. Er is geen verdubbeling geweest",
+      "correct" : false
+    }, {
+      "text" : "Nee. Er is nog geen tussenwandje in het membraan",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0020-00.png",
+      "contentType" : "image/png"
+    }, {
+      "fileName" : "0020-01.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "Planten hebben ook organen, zoals een blad, wortel bloem of stengel. \n\nDeze organen bestaan ook uit weefsels. Zo is er transportweefsel; een soort bloedvaten door de plant met de naam vaatbundels. Er zijn er twee, 1 omhoog (naar blad)  en 1 naar beneden (naar wortel). Die omhoog zitten in het midden bij het hout; de houtvaten. Die omlaag zitten in de bast (schors) en heten bastvaten.",
+    "htmlLemma" : "Planten hebben ook organen, zoals een blad, wortel bloem of stengel. \n\nDeze organen bestaan ook uit weefsels. Zo is er <span style=\"color:red;\">transportweefsel</span>; een soort bloedvaten door de plant met de naam <span style=\"color:red;\">vaatbundels</span>. Er zijn er twee, 1 omhoog (naar blad)  en 1 naar beneden (naar wortel). Die omhoog zitten in het midden bij het hout; de <span style=\"color:red;\">houtvaten</span>. Die omlaag zitten in de bast (schors) en heten <span style=\"color:red;\">bastvaten</span>.",
+    "richLemma" : null,
+    "question" : "Wat is een weefsel?",
+    "answers" : [ {
+      "text" : "Een soort orgaan",
+      "correct" : false
+    }, {
+      "text" : "Een groep cellen met dezelfde vorm en functie",
+      "correct" : true
+    }, {
+      "text" : "Een heel vies ding",
+      "correct" : false
+    }, {
+      "text" : "Een deel van een organisme",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "Even een klein testje om te zien of je door kunt naar het volgende level!! Antwoord je goed dan ga je door, antwoord je fout ga je 5 bladzijden terug…\n\nDe bastvaten zitten buitenom. Bast Buiten en vervoeren glucose naar Beneden. \n\nDe houtvaten zitten in hout. Zaag je een boom om, dan zit hout in het midden. De wortels duwen water door het hout omhoog naar de bladeren.",
+    "htmlLemma" : "Even een klein testje om te zien of je door kunt naar het volgende level!! Antwoord je goed dan ga je door, antwoord je fout ga je 5 bladzijden terug…\n\nDe bastvaten zitten buitenom. <span style=\"color:red;\">B</span>ast <span style=\"color:red;\">B</span>uiten en vervoeren glucose naar <span style=\"color:red;\">B</span>eneden. \n\nDe houtvaten zitten in hout. Zaag je een boom om, dan zit hout in het midden. De wortels duwen water door het hout omhoog naar de bladeren. ",
+    "richLemma" : null,
+    "question" : "Wat is gewone celdeling?",
+    "answers" : [ {
+      "text" : "mitose",
+      "correct" : true
+    }, {
+      "text" : "weefsel",
+      "correct" : false
+    }, {
+      "text" : "meiose",
+      "correct" : false
+    }, {
+      "text" : "orgaan",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "Dieren hebben ook verschillende weefsels. \n\nBijvoorbeeld spierweefsel. Dit weefsel heeft de functie bewegen. \nOok is er steunweefsel; bijvoorbeeld botweefsel of kraakbeenweefsel. Beide hebben de functie om steun te geven (anders zak je als een pudding in elkaar.) \n\nEr is ook zenuwweefsel, bijvoorbeeld een groep zenuwen heeft de functie om impulsen (kleine seintjes) van je teen te sturen naar je hoofd als je deze stoot.",
+    "htmlLemma" : "Dieren hebben ook verschillende weefsels. \n\nBijvoorbeeld spierweefsel. Dit weefsel heeft de functie bewegen. \nOok is er steunweefsel; bijvoorbeeld botweefsel of kraakbeenweefsel. Beide hebben de functie om steun te geven (anders zak je als een pudding in elkaar.) \n\nEr is ook zenuwweefsel, bijvoorbeeld een groep zenuwen heeft de functie om impulsen (kleine seintjes) van je teen te sturen naar je hoofd als je deze stoot. ",
+    "richLemma" : null,
+    "question" : "Waar zitten bastvaten en welke functie hebben deze?",
+    "answers" : [ {
+      "text" : "In een boom om stevigheid te geven",
+      "correct" : false
+    }, {
+      "text" : "In het midden om water te vervoeren",
+      "correct" : false
+    }, {
+      "text" : "Bast buiten en vervoeren glucose van blad naar wortel",
+      "correct" : true
+    }, {
+      "text" : "In het hout omdat dit stevigheid geeft",
+      "correct" : false
+    } ],
+    "images" : [ ]
+  }, {
+    "lemma" : "Gelukt!! Het gaat keigoed!!!!\n\nEen mens heeft meerdere orgaanstelsels. Dit zijn een groep organen die samenwerken met een bepaalde functie. Bijvoorbeeld het spijsverteringsstelsel. De slokdarm, maag en darmen zijn delen die samen werken om je eten te verteren. Tot.. het poep is. \n\nJe hebt ook een zenuwstelsel, voortplantingsstelsel, bloedvatenstelsel.",
+    "htmlLemma" : "Gelukt!! Het gaat keigoed!!!!\n\nEen mens heeft meerdere orgaanstelsels. Dit zijn een groep organen die samenwerken met een bepaalde functie. Bijvoorbeeld het spijsverteringsstelsel. De slokdarm, maag en darmen zijn delen die samen werken om je eten te verteren. Tot.. het poep is. \n\nJe hebt ook een zenuwstelsel, voortplantingsstelsel, bloedvatenstelsel.",
+    "richLemma" : null,
+    "question" : "Hier zie je een paar kraakbeencellen. Bij welk weefsel hoort dit en wat is de functie?",
+    "answers" : [ {
+      "text" : "Dit is zenuwweefsel en helpt bij herstel",
+      "correct" : false
+    }, {
+      "text" : "Dit is steunweefsel en hoort bij het spierweefsel",
+      "correct" : false
+    }, {
+      "text" : "kraakbeenweefsel. Functie is steunweefsel.",
+      "correct" : true
+    }, {
+      "text" : "Dit is spierweefsel en hoort bij het skelet",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0024-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Een orgaan is bijvoorbeeld je hart, long, oog of maag.  Dit is een deel van je lichaam met 1 of meer functies. Het bestaat meestal uit meerdere weefsels.",
+    "htmlLemma" : "Een orgaan is bijvoorbeeld je hart, long, oog of maag.  Dit is een deel van je lichaam met 1 of meer functies. Het bestaat meestal uit meerdere weefsels.",
+    "richLemma" : null,
+    "question" : "Wat is de juiste combinatie voor de juiste orgaanstelsels? \nBloedvatenstelsel, zenuwstelsel, voortplantingsstelsel",
+    "answers" : [ {
+      "text" : "4 – 2 - 5",
+      "correct" : false
+    }, {
+      "text" : "geen",
+      "correct" : true
+    }, {
+      "text" : "4 – 6 - 1",
+      "correct" : false
+    }, {
+      "text" : "2 – 3 – 4",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0025-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "Je hart heeft als functie het rondpompen van je bloed. Je maag tijdelijke opslag van voedsel en mengt verteringssappen. Je galblaas maakt gal en zit aan je lever. Je nieren helpen bij het reinigen van je bloed.  Je dunne darm neemt verteringsproducten op uit je eten en maakt verteringssappen. Je ruggenmerg helpt bij het doorgeven van signalen uit je hersenen naar je zenuwen.",
+    "htmlLemma" : "Je hart heeft als functie het rondpompen van je bloed. Je maag tijdelijke opslag van voedsel en mengt verteringssappen. Je galblaas maakt gal en zit aan je lever. Je nieren helpen bij het reinigen van je bloed.  Je dunne darm neemt verteringsproducten op uit je eten en maakt verteringssappen. Je ruggenmerg helpt bij het doorgeven van signalen uit je hersenen naar je zenuwen.",
+    "richLemma" : null,
+    "question" : "Welk orgaan zijn je nieren? ",
+    "answers" : [ {
+      "text" : "1",
+      "correct" : true
+    }, {
+      "text" : "2",
+      "correct" : false
+    }, {
+      "text" : "3",
+      "correct" : false
+    }, {
+      "text" : "4",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0026-00.png",
+      "contentType" : "image/png"
+    } ]
+  }, {
+    "lemma" : "-",
+    "htmlLemma" : "-",
+    "richLemma" : null,
+    "question" : "Wat is<span style=\"color:#FFFFC000;\"> geen </span>orgaan? ",
+    "answers" : [ {
+      "text" : "oog",
+      "correct" : false
+    }, {
+      "text" : "oor",
+      "correct" : false
+    }, {
+      "text" : "maag",
+      "correct" : false
+    }, {
+      "text" : "skelet",
+      "correct" : true
+    } ],
+    "images" : [ {
+      "fileName" : "0027-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  }, {
+    "lemma" : "Goed gedaan !!! \n\nJe krijgt nu de keuze uit twee mogelijkheden. De toets nu gelijk echt maken en laten meetellen of wanneer je twijfelt kiezen om nog eens te oefenen. De toets is online en het cijfer wordt direct verwerkt in SOM.",
+    "htmlLemma" : "Goed gedaan !!! \n\nJe krijgt nu de keuze uit twee mogelijkheden. De toets nu gelijk echt maken en laten meetellen of wanneer je twijfelt kiezen om nog eens te oefenen. De toets is online en het cijfer wordt direct verwerkt in SOM.",
+    "richLemma" : null,
+    "question" : "Wat wil je nu doen?",
+    "answers" : [ {
+      "text" : "Overnieuw beginnen om het nog eens te oefenen.",
+      "correct" : false
+    }, {
+      "text" : "Naar de vorige pagina",
+      "correct" : false
+    }, {
+      "text" : "Deze eerste reeks toetsen. Dit kun je vragen bij je docent.",
+      "correct" : true
+    }, {
+      "text" : "Dit nu afsluiten en naar de volgende reeks gaan en dit stuk later nog eens herhalen.",
+      "correct" : false
+    } ],
+    "images" : [ {
+      "fileName" : "0028-00.jpeg",
+      "contentType" : "image/jpeg"
+    } ]
+  } ]
+}

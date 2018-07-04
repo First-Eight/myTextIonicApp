@@ -15,11 +15,11 @@
   </div>
   <div *ngIf="page" ion-grid padding class="row responsive-sm">
     <ion-row>
-      <div ion-col col-12 col-sm>
+      <div ion-col col-12 col-sm-6>
         <p *ngFor="let p of page.htmlLemmaPs" [innerHTML]="p"></p>
       </div>
-      <div *ngFor="let image of page.images"  ion-col col-12 col-sm class="image">
-        <img [src]="'./assets/data/les-4/' + image.fileName" [alt]="image.fileName"/>
+      <div *ngFor="let image of page.images"  ion-col col-12 col-sm-6 class="image">
+        <img [src]="'./assets/data/les-' + lessonNo + '/' + image.fileName" [alt]="image.fileName"/>
       </div>
     </ion-row>
   </div>

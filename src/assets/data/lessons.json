@@ -1,0 +1,14 @@
+{
+  "lessons": [
+    {
+      "id": 4,
+      "name": "Voorwaardsleren",
+      "file": "lesson-4.json"
+    },
+    {
+      "id": 1,
+      "name": "Organen en cellen",
+      "file": "lesson-1.json"
+    }
+  ]
+}
